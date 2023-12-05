@@ -26,7 +26,7 @@
 * Conduct EDA (Exploratory Data Analysis) to spot patterns, correlations, relationships, and evidence connecting the hypothesis and questions being examined.
 * Develop a Model to predict if a customer would churn (Dependent variable) based on features (Indeoendent variables)
 
-  ## Data Dictionary
+## Data Dictionary
   
 **The data set includes information about:
 
@@ -72,7 +72,10 @@ TotalCharges 	The total money paid by the customer to the company.
 
 Churn  	This is the target variable which specifies if a customer has churned or not.
 
-
+## Steps to Reproduce
+1. Clone this repo
+2. Acquire data from Open-Source (websites include Kaggle, Github, etc)
+3. 
 
 
 
