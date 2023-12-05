@@ -28,8 +28,28 @@
 
   ## Data Dictionary
   
-  
-
+**The data set includes information about:
+CustomerID 	The unique ID of each customer
+Gender 	The gender of a person
+SeniorCitizen	Whether a customer can be classified as a senior citizen.
+Partner 	If a customer is married/ in a live-in relationship.
+Dependents	If a customer has dependents (children/ retired parents)
+Tenure	The time for which a customer has been using the service.
+PhoneService  	Whether a customer has a landline phone service along with the internet service.
+MultipleLines	Whether a customer has multiple lines of internet connectivity.
+InternetService 	The type of internet services chosen by the customer.
+OnlineSecurity 	Specifies if a customer has online security.
+OnlineBackup 	Specifies if a customer has online backup.
+DeviceProtection 	Specifies if a customer has opted for device protection.
+TechSupport 	Whether a customer has opted for tech support of not.
+StreamingTV	Whether a customer has an option of TV streaming.
+StreamingMovies 	Whether a customer has an option of Movie streaming.
+Contract  	The type of contract a customer has chosen.
+PaperlessBilling  	Whether a customer has opted for paperless billing.
+PaymentMethod 	Specifies the method by which bills are paid.
+MonthlyCharges 	Specifies the money paid by a customer each month.
+TotalCharges 	The total money paid by the customer to the company.
+Churn  	This is the target variable which specifies if a customer has churned or not.
 
 
 
