@@ -75,7 +75,48 @@ Churn  	This is the target variable which specifies if a customer has churned or
 ## Steps to Reproduce
 1. Clone this repo
 2. Acquire data from Open-Source (websites include Kaggle, Github, etc)
-3. 
+3. Place file containing repo in folder of choice
+4. Run notebook
+
+## Takeaways and Conclusions
+* Customers using online security and online backup services have relatively lower churn rates, indicating the value of these services.
+  
+* New customers are more prone to churn than long-term ones. Churn rates decrease as the tenure of customers increase.
+  
+* As businesses move more and more of their operations onto the cloud, cloud security has become an essential concern. Not only does cloud security help to protect data from external threats, but it also helps to reduce churn within businesses.
+
+* Security backup practices lead to increased client satisfaction and loyalty. By providing reliable security services, a company can foster long-term relationships with their clients and reduce client churn.
+
+
+* consumers inclined to stay longer with a company offering these services, but they are also willing to invest more for enhanced technical support and security – a prospect that not only boosts profitability but also acts as a powerful deterrent against churn
+
+
+## Recommendations (Things that can be done toreduce the churn rate):
+* Place emphasis on tailored retention strategies for younger customers, considering their unique preferences and needs.
+
+* Develop targeted offers and services that address the needs of younger customers without partners or dependents, potentially through bundle packages or personalized plans.
+
+* Offer incentives to encourage customers to commit to longer-term contracts, such as discounts or additional services.
+
+* Highlight the benefits of online security and backup services to all customers to potentially reduce churn.
+
+
+## Things to Consider Moving Forward
+* Collect data regarding tower overage within different customer geolocational data.
+
+* Collect data on the type of usage for the device (Business, Social Media, etc). This could give insight to the services that may prove more important to customers.
+
+* Collect data on customer income based on zip code and possibly customer demographic. This information could better assist in identifying if monthly and total charges play a larger role in churn compared to the other features.
+
+* Gather and bin churn based on a more specific age scale (I.e.: 21-30, 30-40,etc). By more tightly grouping the age range, it is posible to gain a better understanding of average time (tenure) continued iwth the company and age associated. Also, this could assist in correlating which security and backup services are most important to what specified age range.
+
+
+
+
+
+
+
+
 
 
 
