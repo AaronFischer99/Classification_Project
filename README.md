@@ -1,6 +1,6 @@
 # The Effect Tenure and Dependability Have on Churn
 
-## 1) Question about the data
+## Question about the data
 * What factors are customers willing to scrifice more money for while not being at risk of churning? In additoin, can those factors (features) be proven through data manipulation and analysis
 
 ## Project Goal
